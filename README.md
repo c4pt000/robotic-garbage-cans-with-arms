@@ -14,3 +14,13 @@ as.an example it can circle an area like a parking lot to know thst it won't lea
 
 
 think malls, stores, gas stations, mini marts
+
+possible that the garbage can would consume the garbage chemically through industrial chemical breakdown by keeping internal liquid to break down HDPE and LDPE plastics and other wastes
+
+by possibly creating it's own HCL acid breakdown using standard water and heat with table salt to create HCL for it's internal guts 
+
+could also be a garbage can on the street corner that breaks down garbage to liquid depending on weekly refills of 5 gallons of water and 1kg of salt with sanitation workers supply water and salt to each corner garbage can to break down garbage as a liquid 
+
+todo -> after the garbage liquidifies the garbage can would also treat the liquid with a heavy ph basic component like KOH to neutralize the acidic liquid
+
+(as a basic concept chemical mix not an actual stoimetric ratio(
