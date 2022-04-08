@@ -24,3 +24,9 @@ could also be a garbage can on the street corner that breaks down garbage to liq
 todo -> after the garbage liquidifies the garbage can would also treat the liquid with a heavy ph basic component like KOH to neutralize the acidic liquid
 
 (as a basic concept chemical mix not an actual stoimetric ratio(
+
+# saw one of these locally could be used to pickup garbage in parking lots of gas station lots 
+# it it was slightly larger 3ft * 3ft 3ft
+# AND if it had a flat metal "spatula" type of robotic appendage as a robotic arm where the spatula would have a flat "clamp" to grasp or grip a flat piece of garbage or flattened piece of garbage
+
+![s1](https://github.com/c4pt000/robotic-garbage-cans-with-arms-trash/raw/main/ezgif-2-522c5c5874.gif)
