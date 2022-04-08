@@ -25,7 +25,7 @@ todo -> after the garbage liquidifies the garbage can would also treat the liqui
 
 (as a basic concept chemical mix not an actual stoimetric ratio(
 
-# saw one of these locally could be used to pickup garbage in parking lots of gas station lots 
+# saw one of these locally could be used to pickup garbage in parking lots or gas station lots or open areas in general
 # it it was slightly larger 3ft * 3ft 3ft
 # AND if it had a flat metal "spatula" type of robotic appendage as a robotic arm where the spatula would have a flat "clamp" to grasp or grip a flat piece of garbage or flattened piece of garbage
 
